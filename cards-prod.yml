@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank cards related prod APIs "
+  contactDetails:
+    name: "Efnfi Dip - Prod Lead"
+    email: "efnfi@eazybank.com"
+  onCallSupport:
+    - (626) 452-1234
+    - (457) 646-1354

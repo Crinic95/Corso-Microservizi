@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank Loans related prod APIs"
+  contactDetails:
+    name: "Pelias Grega - Product Owner"
+    email: "pelias@eazybank.com"
+  onCallSupport:
+    - (723) 456-2176
+    - (415) 764-9834

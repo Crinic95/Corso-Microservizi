@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Fritz Dip - Developer"
+    email: "fritz@eazybank.com"
+  onCallSupport:
+    - (111) 555-1234
+    - (112) 523-1345

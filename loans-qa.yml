@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EazyBank Loans related QA APIs"
+  contactDetails:
+    name: "Cyrano Grega - QA lead"
+    email: "cyrano@eazybank.com"
+  onCallSupport:
+    - (433) 456-2176
+    - (241) 764-9834
